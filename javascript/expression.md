@@ -1,4 +1,4 @@
-# ⭐ **Expression মানে কী? (একদম সহজ সংজ্ঞা)**
+# ⭐ **Expression মানে কী?
 
 **Expression = এমন কোনো কোড, যেটা একটি single value রিটার্ন করে।**
 

@@ -6,7 +6,7 @@ React-এ “**expression slot**” বলতে আসলে বোঝানো
 
 ---
 
-# ✅ **React Expression Slot — সহজ ভাষায়**
+# ✅ **React Expression Slot
 
 React-এ যখন তুমি JSX লেখো:
 
